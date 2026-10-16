@@ -13,6 +13,8 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Regulatory submissions, operations and labeling](lists/submissions-labeling.md) | 9 | 7 |
 | [Regulatory affairs](lists/regulatory-affairs.md) | 29 | 17 |
 | [Medical device regulatory affairs](lists/medical-device-regulatory-affairs.md) | 21 | 12 |
+| [Drug and pharma regulatory affairs](lists/drug-regulatory-affairs.md) | 12 | 6 |
+| [Regulatory affairs at visa sponsors](lists/regulatory-affairs-visa-sponsors.md) | 15 | 9 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
