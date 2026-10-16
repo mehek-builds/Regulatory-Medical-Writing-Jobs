@@ -12,6 +12,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Medical and scientific communications](lists/communications-publications.md) | 16 | 8 |
 | [Regulatory submissions, operations and labeling](lists/submissions-labeling.md) | 9 | 7 |
 | [Regulatory affairs](lists/regulatory-affairs.md) | 29 | 17 |
+| [Medical device regulatory affairs](lists/medical-device-regulatory-affairs.md) | 21 | 12 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
