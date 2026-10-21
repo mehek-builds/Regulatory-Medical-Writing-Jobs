@@ -1,8 +1,8 @@
 # Regulatory and Medical Writing Jobs
 
-**151 open regulatory writing, medical writing, scientific communications, regulatory submissions and regulatory affairs roles at 80 employers.** Checked 20 Oct 2026. 48 posted in the last 7 days. 49 at employers with a visa sponsorship record.
+**154 open regulatory writing, medical writing, scientific communications, regulatory submissions and regulatory affairs roles at 82 employers.** Checked 20 Oct 2026. 48 posted in the last 7 days. 50 at employers with a visa sponsorship record.
 
-Medical writers, regulatory writers, clinical and scientific writers, medical and scientific communications and publications roles, and regulatory submissions, operations, publishing and labeling roles at pharma, biotech, medtech and CRO companies. US-based or remote in the US. Director, head, manager and principal titles are left out; senior writer and specialist roles stay in. The exception is the [remote regulatory affairs list](lists/remote-regulatory-affairs.md): it covers remote roles in Europe, other countries and the US, including part-time and contract work, and keeps senior, director and head titles.
+Medical writers, regulatory writers, clinical and scientific writers, medical and scientific communications and publications roles, and regulatory submissions, operations, publishing and labeling roles at pharma, biotech, medtech and CRO companies. US-based or remote in the US. Director, head, manager and principal titles are left out; senior writer and specialist roles stay in. The exception is the [remote regulatory affairs list](lists/remote-regulatory-affairs.md): it covers remote roles in Europe, other countries and the US, including part-time and contract work, and keeps senior, director and head titles. The [UK regulatory affairs list](lists/uk-regulatory-affairs.md) covers roles based in the UK or remote in the UK, and keeps senior and director titles too.
 
 Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=med-writing-readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. Rebuilt every Monday, so closed roles drop off and new ones come in.
 
@@ -17,6 +17,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Regulatory affairs at visa sponsors](lists/regulatory-affairs-visa-sponsors.md) | 16 | 12 |
 | [Entry level regulatory affairs](lists/entry-level-regulatory-affairs.md) | 9 | 9 |
 | [Remote regulatory affairs (Europe, global and US)](lists/remote-regulatory-affairs.md) | 71 | 41 |
+| [UK regulatory affairs](lists/uk-regulatory-affairs.md) | 9 | 7 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
@@ -72,6 +73,7 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Johnson & Johnson** | [Senior Regulatory Affairs Specialist](https://trylitos.com/job/3a34e989-7253-4346-8c82-9ffcb9888be6?utm_source=github&utm_campaign=med-writing-regulatory-affairs) | Warsaw, Indiana, United States of America; We |  | Oct 13 |  |
 | **Baxter** | [Sr Mgr, Regulatory Affairs](https://trylitos.com/job/423a3946-c5fe-4b38-9c56-bcdd881f30b5?utm_source=github&utm_campaign=med-writing-regulatory-affairs) | Deerfield, Illinois; Boston, MA (remote); Ala |  | Oct 13 |  |
 | **Worldwide Clinical Trials** | [Specialist, Regulatory Compliance (Serbia)](https://trylitos.com/job/44c0b73a-83b9-432d-887c-27d1e41b2254?utm_source=github&utm_campaign=med-writing-remote-regulatory-affairs) | Remote: Serbia |  | Oct 13 |  |
+| **Pfizer** | [Undergraduate Regulatory Strategist](https://trylitos.com/job/1ae74ae1-cd23-481e-bec1-2d748afcb3ab?utm_source=github&utm_campaign=med-writing-uk-regulatory-affairs) | United Kingdom - Walton Oaks |  | Oct 13 | Employer holds a UK sponsor licence (Home Office register) |
 | **GoodRx** | [Medical Editor, HCP](https://trylitos.com/job/b81a2b3e-8f7c-44bc-a0f7-1dad241d06ad?utm_source=github&utm_campaign=med-writing-medical-regulatory-writing) | San Francisco, CA |  | Oct 12 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Cardinal Health** | [SR Coordinator, Regulatory Submission Operations](https://trylitos.com/job/068982d3-1a5b-466f-a31a-0abff5f9e858?utm_source=github&utm_campaign=med-writing-submissions-labeling) | US-Nationwide-FIELD |  | Oct 12 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Abbott** | [Regulatory Affairs Operations Specialist - Vascular (on-site)](https://trylitos.com/job/ed55cb33-c646-421e-bad1-935f376ac1ad?utm_source=github&utm_campaign=med-writing-regulatory-affairs) | United States - California - Temecula |  | Oct 12 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
@@ -138,6 +140,8 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Kailera Therapeutics, Inc.** | [Associate Director, Global Regulatory Affairs](https://trylitos.com/job/aa3d0c39-837d-4871-be63-19aaec3ad6fd?utm_source=github&utm_campaign=med-writing-remote-regulatory-affairs) | US-Remote | USD 155,000 to 190,000 per year | Sep 18 |  |
 | **Kailera Therapeutics, Inc.** | [Associate Director, Global Regulatory Labeling and Ad Promo](https://trylitos.com/job/1adfee0b-f4d4-419c-8d61-09ef3dc4440f?utm_source=github&utm_campaign=med-writing-remote-regulatory-affairs) | US-Remote | USD 155,000 to 190,000 per year | Sep 18 |  |
 | **Vertex Pharmaceuticals** | [Regulatory Labeling Associate Director (Remote Eligible)](https://trylitos.com/job/f64e6855-8649-46fd-99a4-bacbe7e004f9?utm_source=github&utm_campaign=med-writing-remote-regulatory-affairs) | Remote eligible, US (posted as Boston, MA) |  | Sep 18 |  |
+| **Ipsen** | [Regulatory Submission Project Manager](https://trylitos.com/job/b039bbb9-00c6-4238-9fc9-40342d3ae605?utm_source=github&utm_campaign=med-writing-uk-regulatory-affairs) | London (UK); Paris; Cambridge One Main |  | Sep 18 |  |
+| **Ipsen** | [Senior Regulatory Submission Project Manager](https://trylitos.com/job/97d3afa0-3112-488e-8f2e-f3706f80e555?utm_source=github&utm_campaign=med-writing-uk-regulatory-affairs) | London (UK); Paris; Cambridge One Main |  | Sep 18 |  |
 | **Catalent** | [Technical Writer I - Process Development](https://trylitos.com/job/a6048873-5725-45e0-b6ec-62f5e3edf9d8?utm_source=github&utm_campaign=med-writing-medical-regulatory-writing) | Madison, WI |  | Sep 17 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **MiniMed** | [Principal Regulatory Affairs Specialist](https://trylitos.com/job/c5733d2f-17e8-4fd2-aca2-ed67b2e2c120?utm_source=github&utm_campaign=med-writing-remote-regulatory-affairs) | Remote, US (100% remote) |  | Sep 16 |  |
 | **RELX** | [Cross-Journal Scientific Editor, Life and Medical Portfolio, Cell Press](https://trylitos.com/job/d01a518a-0b3b-489b-8b8d-c4f11b1e467d?utm_source=github&utm_campaign=med-writing-medical-regulatory-writing) | Medford, MA |  | Sep 15 | Employer has certified LCAs (DOL); posting does not say |
